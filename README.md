@@ -1,4 +1,5 @@
 # Intelligent Traffic & Possible-Accident Detection
+project live link - https://intelligent-traffic-ai-bpbpkqzchrnd36sfcbt9ef.streamlit.app/
 
 A computer-vision pipeline for the **AI City Challenge 2021 – Track 4** (crashes and stalled vehicles on highway cameras).
 
