@@ -1,9 +1,9 @@
 ultralytics>=8.3
-opencv-python>=4.8        # use opencv-python-headless instead on a server; never install both
+opencv-python-headless>=4.8
 numpy
 pandas
 scikit-learn
 joblib
 streamlit>=1.30
 matplotlib
-pytest                    # only needed to run the tests
+pytest
