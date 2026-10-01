@@ -7,3 +7,4 @@ joblib
 streamlit>=1.30
 matplotlib
 pytest
+lap
